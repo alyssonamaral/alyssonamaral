@@ -14,7 +14,7 @@
 
 - 👨🏽‍💻 I’m currently a quantum computing researcher and a .Net Developer;
 - 🌱 I’m currently exploring new ways to improve the machine learning methods for quantum computing; 
-- 🤔 My interest lies in quantum computing, artificial intelligence and critical systems.
+- 🤔 My interest lies in quantum computing, artificial intelligence and critical systems;
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [alysson.amaral@outlook.com](mailto:alyssonamaral@outlook.com).
 
