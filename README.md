@@ -12,22 +12,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a quantum computing researcher and a .Net Developer;
-- 🌱 I’m currently exploring new ways to improve the machine learning methods for quantum computing; 
-- 🤔 My interest lies in quantum computing, artificial intelligence and critical systems;
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [alysson.amaral@outlook.com](mailto:alyssonamaral@outlook.com).
-
-
-
-**Usual Languages and Tools:**  
-
-- Python
-- C#
-- Qskit
-- MySQL
-- Xamarin
-
-<img src="https://github-readme-stats.vercel.app/api?username=alyssonamaral&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Alysson Amaral's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyssonamaral&count_private=true&theme=radical" alt="Alysson Amaral" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonamaral&count_private=true&theme=radical" alt="Alysson Amaral" />
+- 👨🏽‍💻 I’m a Data Scientist and a Software Engineer;
+- 🌱 I’m currently exploring new ways to improve the machine learning methods for wildfire prediction; 
+- 🤔 My interest lies in artificial intelligence and critical systems;
+- 💬 Ask me about anything, I would love to answer!
+- 📫 Email me at [alysson.amaral@outlook.com](mailto:alysson.amaral@outlook.com).
