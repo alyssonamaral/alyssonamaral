@@ -13,7 +13,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m a Data Scientist and a Software Engineer;
-- 🌱 I’m currently exploring new ways to improve the machine learning methods for wildfire prediction; 
-- 🤔 My interest lies in artificial intelligence and critical systems;
+- 🌱 I’m currently exploring new ways to understand e predict chaotic graphs; 
+- 🤔 My interest lies in artificial intelligence and chaotic systems;
 - 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [alysson.amaral@outlook.com](mailto:alysson.amaral@outlook.com).
